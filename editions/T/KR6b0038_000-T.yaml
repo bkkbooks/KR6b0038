@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6b0038/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說鹿母經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T03/T03n0182b.xml
+    old_id: T03n0182b
+hash: sha256:49547f778800d4c12e8e88966a27d9a1455aa7ede4178b0e70bdd042ec6ad008
