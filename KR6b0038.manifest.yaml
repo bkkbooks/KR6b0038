@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6b0038_000.yaml, hash: 'sha256:49547f778800d4c12e8e88966a27d9a1455aa7ede4178b0e70bdd042ec6ad008'}
-  - {seq: 1, filename: KR6b0038_001.yaml, hash: 'sha256:a6c2a172c1547cce03a25478e5e0db84358b1af0aec7e1c326f83bb604604917'}
+  - {seq: 1, filename: KR6b0038_001.yaml, hash: 'sha256:99909d804103ff7006ed119becf8a8f7cdfca6b894aa3ed07c0c0a187112b73d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6b0038_001.markers.yaml, hash: 'sha256:fe5498c134e66e7e0e8cb1ad9f34ea99e861aad4b05d1c8832c63a3b63e9d85b'}
+  - {seq: 0, role: markers, filename: assets/KR6b0038_000.markers.yaml, hash: 'sha256:da9c4958334285db683c70b487fb7093c336abd50ae3e66b36c9ed8370d3496e'}
+  - {seq: 1, role: markers, filename: assets/KR6b0038_001.markers.yaml, hash: 'sha256:f88e3e71d6a042e8c295d87f3037ff93f540f496a2fe9c3ee0a2dcbaadff24b1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說鹿母經
   type: juan
   level: 1
-hash: sha256:bc705feb469e426c0eade27245804c4992336dcd8032722046ed3c41f1b42444
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:583ba5b344887c831afdc047a6ad8009232d76a92426bf0eb9626ed626db79e5
